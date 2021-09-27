@@ -9,7 +9,7 @@ Material:
   m_PrefabAsset: {fileID: 0}
   m_Name: CarterOne-Regular SDF Material
   m_Shader: {fileID: 4800000, guid: 68e6db2ebdc24f95958faec2be5558d6, type: 3}
-  m_ShaderKeywords: UNDERLAY_ON
+  m_ShaderKeywords: 
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
@@ -101,7 +101,7 @@ Material:
     - _ReflectFaceColor: {r: 0, g: 0, b: 0, a: 1}
     - _ReflectOutlineColor: {r: 0, g: 0, b: 0, a: 1}
     - _SpecularColor: {r: 1, g: 1, b: 1, a: 1}
-    - _UnderlayColor: {r: 0.020692414, g: 0.2924528, b: 0.020692414, a: 1}
+    - _UnderlayColor: {r: 0.25484762, g: 0.08156817, b: 0.3679245, a: 1}
   m_BuildTextureStacks: []
 --- !u!114 &11400000
 MonoBehaviour:
@@ -113,11 +113,11 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
-  m_Name: CarterOneRegularGreenOutline
+  m_Name: CarterOneRegula
   m_EditorClassIdentifier: 
-  hashCode: 264076854
+  hashCode: -2061784417
   material: {fileID: -3162353460452672823}
-  materialHashCode: 37163350
+  materialHashCode: -2100944929
   m_Version: 1.1.0
   m_SourceFontFileGUID: 1538d0b26a385224485f88ec5d2283c1
   m_SourceFontFile_EditorRef: {fileID: 12800000, guid: 1538d0b26a385224485f88ec5d2283c1, type: 3}
